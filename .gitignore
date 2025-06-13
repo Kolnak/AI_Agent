@@ -1,2 +1,6 @@
 .env
+<<<<<<< HEAD
 venv/
+=======
+venv/
+>>>>>>> 3957f5a (updated .gitignore)
